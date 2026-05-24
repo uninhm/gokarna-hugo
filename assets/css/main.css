@@ -360,9 +360,9 @@ hr {
 
 table {
   border-collapse: collapse;
-  margin: 30px 0;
+  margin: 30px auto;
   text-align: left;
-  display: block;
+  display: table;
   overflow-x: auto;
 }
 
